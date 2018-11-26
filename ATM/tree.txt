@@ -1,0 +1,66 @@
+文件夹 PATH 列表
+卷序列号为 E8DC-8364
+C:.
+│  ATM.pdf
+│  main_server.py
+│  README
+│  tree.txt
+│  __init__.py
+│  
+├─config
+│  │  setting.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          setting.cpython-36.pyc
+│          __init__.cpython-36.pyc
+│          
+├─core
+│  │  admin.py
+│  │  ATM_operation.py
+│  │  auth.py
+│  │  db_handler.py
+│  │  loggers.py
+│  │  main.py
+│  │  make.py
+│  │  shopping.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          admin.cpython-36.pyc
+│          ATM_operation.cpython-36.pyc
+│          auth.cpython-36.pyc
+│          db_handler.cpython-36.pyc
+│          loggers.cpython-36.pyc
+│          main.cpython-36.pyc
+│          make.cpython-36.pyc
+│          shopping.cpython-36.pyc
+│          __init__.cpython-36.pyc
+│          
+├─db
+│  │  __init__.py
+│  │  
+│  └─accounts
+│          12.json
+│          123.json
+│          1234.json
+│          14.json
+│          admin.json
+│          __init__.py
+│          
+├─log
+│  │  access.log
+│  │  admin.log
+│  │  shopping.log
+│  │  transaction.log
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          __init__.cpython-36.pyc
+│          
+└─shopp
+    │  __init__.py
+    │  
+    └─__pycache__
+            __init__.cpython-36.pyc
+            
